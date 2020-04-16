@@ -1,0 +1,93 @@
+ <style>body {
+     background-image: url("m10.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
+
+ h1 {
+     text-align: center;
+     font-family: 'Spicy Rice', cursive;
+     text-decoration: chartreuse;
+     font-size: 80px;
+     color: midnightblue;
+     line-height: 5px;
+     word-spacing: 5mm;
+ }
+
+ h2 {
+     font-family: 'Lobster', cursive;
+     text-align: center;
+     color: darkgreen;
+     font-size: 56px;
+     line-height: 2mm;
+ }
+
+ h4 {
+     text-align: justify;
+     font-family: 'Gotu', sans-serif;
+     font-size: 18px;
+     color: red;
+
+ }
+
+ h5 {
+     text-align: justify;
+     font-family: 'Gotu', sans-serif;
+     font-size: 18px;
+     color: rgb(158, 88, 135);
+
+ }
+
+ table {
+     font-family: 'Sue Ellen Francisco', cursive;
+     font-size: 24px;
+     color: darkred;
+ }
+
+ li {
+     font-family: 'Sue Ellen Francisco', cursive;
+     font-size: 18px;
+     color: darkred;
+ }
+
+ div {
+     border: 1px solid yellow;
+ }
+
+ .lista1 {
+     width: 49%;
+     box-sizing: border-box;
+     border: 10px whitesmoke;
+     display: inline-block;
+ }
+
+ .construccion {
+     width: 49%;
+     display: inline-block;
+     box-sizing: border-box;
+ }
+
+ a {
+     width: 160px;
+     border: 2px solid orangered;
+     background: rgb(110, 231, 201);
+     color: rgb(15, 3, 3);
+     display: inline-block;
+     font-size: 20px;
+     height: 30px;
+     text-decoration: none;
+     padding: 10px;
+
+ }
+
+ a:hover {
+     background-color: red;
+ }
+
+ .Titulo1 {
+     font-family: 'Merienda One',
+         cursive;
+     text-align: center;
+     font-size: 40px;
+ }
